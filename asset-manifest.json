@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LocaleLite/static/css/main.de1854d4.css",
+    "main.js": "/LocaleLite/static/js/main.b39ce15f.js",
+    "static/js/453.e52be559.chunk.js": "/LocaleLite/static/js/453.e52be559.chunk.js",
+    "index.html": "/LocaleLite/index.html",
+    "main.de1854d4.css.map": "/LocaleLite/static/css/main.de1854d4.css.map",
+    "main.b39ce15f.js.map": "/LocaleLite/static/js/main.b39ce15f.js.map",
+    "453.e52be559.chunk.js.map": "/LocaleLite/static/js/453.e52be559.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de1854d4.css",
+    "static/js/main.b39ce15f.js"
+  ]
+}
