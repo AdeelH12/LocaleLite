@@ -27,7 +27,7 @@ LocaleLite is a React-based application that allows users to check if there is a
 ## 📸 Screenshots
 
 ![Homepage](./screenshots/homepage.png)  
-![Holiday Result](./screenshots/result.png)  
+![Holiday Result](./screenshots/results.png)  
 
 ## 🚀 Getting Started
 
